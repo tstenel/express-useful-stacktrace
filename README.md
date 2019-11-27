@@ -88,7 +88,6 @@ usefulStack ->
 [ 
   '    at myController (/usr/controllers/myController.js:155:26)',
   '    at myNamedMiddleware (/usr/middlewares/myMiddleware2.js:42:11)',
-  '    at /usr/middlewares/myMiddleware1.js:15:42', 
   '    at /usr/middlewares/myMiddleware1.js:15:42',
   '    at newFn (/usr/node_modules/express-async-errors/index.js:16:20)',
 ]
