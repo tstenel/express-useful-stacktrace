@@ -1,0 +1,15 @@
+{
+  "name": "express-useful-stacktrace",
+  "version": "1.0.0",
+  "description": "get a usefull stack trace from an error thrown in an express middleware or controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tstenel/express-useful-stacktrace.git"
+  },
+  "author": "Tanguy Stenel",
+  "license": "GPL-3.0-or-later",
+}
