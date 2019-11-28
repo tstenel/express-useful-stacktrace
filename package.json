@@ -11,5 +11,12 @@
     "url": "git+https://github.com/tstenel/express-useful-stacktrace.git"
   },
   "author": "Tanguy Stenel",
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "express",
+    "useful",
+    "stack",
+    "trace",
+    "stacktrace",
+  ]
 }
