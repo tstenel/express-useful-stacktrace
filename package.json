@@ -1,6 +1,6 @@
 {
   "name": "express-useful-stacktrace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get a usefull stack trace from an error thrown in an express middleware or controller",
   "main": "index.js",
   "scripts": {
